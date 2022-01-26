@@ -6,7 +6,7 @@ import {
 	createSlotFill as baseCreateSlotFill,
 	__experimentalUseSlot,
 	useSlot as __useSlot,
-} from 'wordpress-components';
+} from '@wordpress/components';
 import { CURRENT_USER_IS_ADMIN } from '@woocommerce/settings';
 import { Children, cloneElement } from '@wordpress/element';
 
