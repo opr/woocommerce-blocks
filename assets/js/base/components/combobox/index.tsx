@@ -5,7 +5,7 @@ import classnames from 'classnames';
 import { __ } from '@wordpress/i18n';
 import { useEffect, useRef } from '@wordpress/element';
 import { withInstanceId } from '@wordpress/compose';
-import { ComboboxControl } from '@wordpress/components';
+import { ComboboxControl } from 'wordpress-components';
 import {
 	ValidationInputError,
 	useValidationContext,
