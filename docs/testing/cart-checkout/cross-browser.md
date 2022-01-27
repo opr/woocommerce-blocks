@@ -7,3 +7,5 @@ The baseline for testing is:
 - WooCommerce 4.2 and up
 - All Browsers supported by [those two versions](https://make.wordpress.org/core/handbook/best-practices/browser-support/) so this includes Internet Explorer 11, and latest two versions of each browser.
 - Storefront, TwentyTwenty, and TwentyNineteen themes, we use storefront as a basis for development and push fixes to it regularly, so make sure you run the latest version.
+<!-- FEEDBACK --><br/><br/><p align="center"><a href="https://woocommerce.com/"><img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" alt="WooCommerce" height="28px" style="filter: grayscale(100%);opacity: 0.2;" /></a></p><p align="center"><a href="https://woocommerce.com/careers/">We're hiring</a>! Come work with us!</p><p align="center">🐞 Found a mistake, or have a suggestion? <a href="https://github.com/woocommerce/woocommerce-gutenberg-products-block/issues/new?assignees=&labels=type%3A+documentation&template=--doc-feedback.md&title=Feedback%20on%20`./docs/testing/cart-checkout/cross-browser.md`">Leave feedback about this document here.</a></p><!-- /FEEDBACK -->
+

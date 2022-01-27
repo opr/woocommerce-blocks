@@ -472,3 +472,6 @@ This event emitter doesn't care about any registered observer response and will 
 This event emitter is fired when a shipping rate selection is not being persisted to the server and the shipping data context error state is `UNKNOWN` or `INVALID_ADDRESS`.
 
 This event emitter doesn't care about any registered observer response and will simply execute all registered observers passing them the current error status in the context.
+
+<!-- FEEDBACK --><br/><br/><p align="center"><a href="https://woocommerce.com/"><img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" alt="WooCommerce" height="28px" style="filter: grayscale(100%);opacity: 0.2;" /></a></p><p align="center"><a href="https://woocommerce.com/careers/">We're hiring</a>! Come work with us!</p><p align="center">🐞 Found a mistake, or have a suggestion? <a href="https://github.com/woocommerce/woocommerce-gutenberg-products-block/issues/new?assignees=&labels=type%3A+documentation&template=--doc-feedback.md&title=Feedback%20on%20`./docs/extensibility/checkout-flow-and-events.md`">Leave feedback about this document here.</a></p><!-- /FEEDBACK -->
+

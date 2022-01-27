@@ -35,3 +35,5 @@ If you don't have any shipping zones set up and/or shipping is disabled: <!-- he
 If you don't have any shipping zones set up but **shipping is enabled**: <!-- heading -->
 
 - [ ] In the editor, Checkout Block will show you a placeholder promoting you to set up shipping zones.
+<!-- FEEDBACK --><br/><br/><p align="center"><a href="https://woocommerce.com/"><img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" alt="WooCommerce" height="28px" style="filter: grayscale(100%);opacity: 0.2;" /></a></p><p align="center"><a href="https://woocommerce.com/careers/">We're hiring</a>! Come work with us!</p><p align="center">🐞 Found a mistake, or have a suggestion? <a href="https://github.com/woocommerce/woocommerce-gutenberg-products-block/issues/new?assignees=&labels=type%3A+documentation&template=--doc-feedback.md&title=Feedback%20on%20`./docs/testing/cart-checkout/shipping.md`">Leave feedback about this document here.</a></p><!-- /FEEDBACK -->
+
