@@ -24,15 +24,10 @@ jobs:
                       ${{ runner.OS }}-build-${{ secrets.CACHE_VERSION }}-${{ env.cache-name }}-
                       ${{ runner.OS }}-build-${{ secrets.CACHE_VERSION }}-
 
-            - name: Use Node.js 14.x
+            - name: Use Node.js 16.x
               uses: actions/setup-node@v1
               with:
-                  node-version: 14.x
-
-            - name: Npm install and build
-              run: |
-                  npm ci
-                  FORCE_REDUCED_MOTION=true npm run build:e2e-test
+                  node-version: 16.x
 
             - name: Get Composer Cache Directory
               id: composer-cache
@@ -75,10 +70,10 @@ jobs:
                       ${{ runner.OS }}-build-${{ secrets.CACHE_VERSION }}-${{ env.cache-name }}-
                       ${{ runner.OS }}-build-${{ secrets.CACHE_VERSION }}-
 
-            - name: Use Node.js 14.x
+            - name: Use Node.js 16.x
               uses: actions/setup-node@v1
               with:
-                  node-version: 14.x
+                  node-version: 16.x
 
             - name: Npm install and build
               run: |
@@ -147,10 +142,10 @@ jobs:
                       ${{ runner.OS }}-build-${{ secrets.CACHE_VERSION }}-${{ env.cache-name }}-
                       ${{ runner.OS }}-build-${{ secrets.CACHE_VERSION }}-
 
-            - name: Use Node.js 14.x
+            - name: Use Node.js 16.x
               uses: actions/setup-node@v1
               with:
-                  node-version: 14.x
+                  node-version: 16.x
 
             - name: Npm install and build
               run: |
