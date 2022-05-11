@@ -86,6 +86,11 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+#### Various
+
+- Release: 7.7.0. ([4](https://github.com/opr/woocommerce-gutenberg-products-block/pull/4))
+
+
 = 7.6.0 - 2022-05-09 =
 
 #### Enhancements
