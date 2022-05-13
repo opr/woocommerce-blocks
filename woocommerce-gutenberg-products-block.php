@@ -24,7 +24,7 @@ if ( ! defined( 'WC_BLOCKS_IS_FEATURE_PLUGIN' ) ) {
 	define( 'WC_BLOCKS_IS_FEATURE_PLUGIN', true );
 }
 /**
- * Whether notices must be displayed in the current page (plugins and WooCommerce pages).
+ * Whether notices must be displayed in the current page (plugins and WooCommerce pages)..
  *
  * @since 2.5.0
  */
