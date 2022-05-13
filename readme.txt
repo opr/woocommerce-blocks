@@ -86,6 +86,18 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 9.9.0 - 2022-05-13 =
+
+#### Enhancements
+
+- Branch name updated. ([29](https://github.com/opr/woocommerce-gutenberg-products-block/pull/29))
+
+#### Various
+
+- Change automation branch. ([34](https://github.com/opr/woocommerce-gutenberg-products-block/pull/34))
+- Release: 7.7.0. ([4](https://github.com/opr/woocommerce-gutenberg-products-block/pull/4))
+
+
 = 7.6.0 - 2022-05-09 =
 
 #### Enhancements
