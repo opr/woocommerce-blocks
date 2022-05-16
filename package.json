@@ -1,6 +1,6 @@
 {
 	"name": "@woocommerce/block-library",
-	"title": "WooCommerce Blocks",
+	"title": "WooCommerce Blocks - test change",
 	"author": "Automattic",
 	"version": "7.7.0-dev",
 	"description": "WooCommerce blocks for the Gutenberg editor.",
