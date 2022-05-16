@@ -10,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-WooCommerce Blocks are the easiest, most flexible way to display your products on posts and pages!
+WooCommerce Blocks are the easiest, most flexible way to display your products on posts and pages! Editing
 
 For more information on what blocks are available, and how to use them, check out the official documentation: https://docs.woocommerce.com/document/woocommerce-blocks/
 
