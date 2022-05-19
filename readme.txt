@@ -86,6 +86,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 9.9.1 - 2022-05-19 =
+
+#### Enhancements
+
+- Fake edit for 9.9.1. ([118](https://github.com/opr/woocommerce-gutenberg-products-block/pull/118))
+
+
 = 9.9.0 - 2022-05-16 =
 
 #### Enhancements
