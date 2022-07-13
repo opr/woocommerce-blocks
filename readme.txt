@@ -86,6 +86,10 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 7.9.100 - 2022-07-13 =
+
+> Changelog Error: Changelog could not be generated because there is no milestone for the release branch that was pushed. Double-check the spelling on the release branch and ensure that you have a milestone corresponding to the version in the branch name. If you found the error, you can restart by deleting the branch and this pull and pushing a new branch.
+> You'll need to edit this section manually
 = 7.8.35 - 2022-07-13 =
 
 #### Various
