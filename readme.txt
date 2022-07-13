@@ -86,6 +86,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 7.8.30 - 2022-07-13 =
+
+#### Various
+
+- Changelog 7.8.30. ([160](https://github.com/opr/woocommerce-gutenberg-products-block/pull/160))
+
+
 = 7.8.4 - 2022-07-13 =
 
 #### Various
