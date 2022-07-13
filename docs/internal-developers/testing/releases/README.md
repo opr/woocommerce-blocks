@@ -84,6 +84,7 @@ Every release includes specific testing instructions for new features and bug fi
     -   [7.8.30](./7830.md)
     -   [7.8.35](./7835.md)
 -   [7.9.0](./790.md)
+    -   [7.9.100](./79100.md)
 -   [8.0.0](./800.md)
 
 <!-- FEEDBACK -->
