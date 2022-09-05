@@ -1,6 +1,9 @@
-name: 'Close stale issues 2'
+name: 'Close stale issues'
 
 on:
+    push:
+        branches:
+            - trunk
     schedule:
         # Runs daily at 9am UTC
         - cron: '0 9 * * *'
