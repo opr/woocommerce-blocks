@@ -2,7 +2,7 @@ name: 'Close stale issues'
 
 on:
     schedule:
-        # Runs daily at 9am UTC
+        # Runs daily at 9am UTC -
         - cron: '0 9 * * *'
 
 jobs:
