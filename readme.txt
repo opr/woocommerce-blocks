@@ -1,8 +1,8 @@
 === WooCommerce Blocks ===
 Contributors: automattic, woocommerce, claudiulodro, tiagonoronha, jameskoster, ryelle, levinmedia, aljullu, mikejolley, nerrad, joshuawold, assassinateur, haszari, mppfeiffer, nielslange, opr18, ralucastn, tjcafferkey
 Tags: gutenberg, woocommerce, woo commerce, products, blocks, woocommerce blocks
-Requires at least: 6.0
-Tested up to: 6.0
+Requires at least: 6.1
+Tested up to: 6.1
 Requires PHP: 7.0
 Stable tag: 8.5.0-dev
 License: GPLv3
@@ -85,6 +85,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 5. WooCommerce Product Blocks in the block inserter menu
 
 == Changelog ==
+
+= 10.1.2 - 2023-01-16 =
+
+#### Various
+
+- Release: 10.1.1. ([225](https://github.com/opr/woocommerce-blocks/pull/225))
+
 
 = 8.4.0 - 2022-08-29 =
 
